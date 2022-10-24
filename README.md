@@ -39,6 +39,8 @@ The relationship between Drugbank categories and Twosides categories is provided
 
 ***
 **Additional note: In Fig-add 3 sankey plot, Drugbank 0-6 and Twosides 0, 1 and 961 are partial presentations (in order to better demonstrate the explainable analysis). We've done a full statistic on the category assignments from Drugbank 0-86 to Twosides 0-963, and the results can be found in** `./add_result/skany.txt`
+
+We selected 100 drug pairs, all of which are supported by literature, and the results are in `./add_result/sub_visual`
 ***
 
 ![fig-add4](https://github.com/DoubleBlindAnonymous/DDI-DG/blob/main/add_result/figadd4.png)
